@@ -1,2 +1,2 @@
 # demo
-Spring Boot Demo
+Spring Boot-actuator/admin
